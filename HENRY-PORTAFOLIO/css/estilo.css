@@ -14,6 +14,20 @@ body{
     font-size: 65px;
     margin-bottom: 30px;
 }
+
+#nav{
+    margin-top: 10px;
+}
+#a{
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 2px;
+}
+#a:hover{
+    background-color: rgb(100, 100, 99);
+    animation-delay: 30ms;
+}
 #img{
     width: 70%;
     margin-top: 10px;

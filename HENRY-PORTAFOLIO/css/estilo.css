@@ -2,6 +2,11 @@
     margin: auto;
     padding: 5px;
 }
+#main{
+    background-image: url("../img/art2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 body{
     /*
     background-image: url("img/analis.png");
@@ -23,6 +28,7 @@ body{
     font-size: 20px;
     margin: 5px;
     border-radius: 2px;
+    text-decoration: none;
 }
 #a:hover{
     background-color: rgb(100, 100, 99);
@@ -65,10 +71,10 @@ body{
     text-align: left;
 }
 #th{
-background-color: rgb(65, 173, 163);
-text-align: center;
-border-radius: 4px;
-color:white;
+    background-color: rgb(65, 173, 163);
+    text-align: center;
+    border-radius: 4px;
+    color:white;
 }
 th{
     border-style: solid;
@@ -84,12 +90,12 @@ th{
 }
 #lista{
     width: 50%;
-    font-size: 20px;
+    font-size: 25px;
     text-align: left;
 }
 #parr{
     width: 50%;
-    font-size: 20px;
+    font-size: 25px;
     text-align: left;
 }
 #footer{
@@ -145,4 +151,5 @@ th{
 }
 a{
     color: black;
+    text-decoration: none;
 }

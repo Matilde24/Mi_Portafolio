@@ -30,6 +30,7 @@ body{
     padding:10px;
     text-align: right;
 }
+
 #linea{
     margin:auto;
     padding: 1px;
@@ -42,19 +43,7 @@ body{
     margin-top: 30px;
     color: rgb(172, 27, 16);
 }
-#nav{
-    margin-top: 10px;
-}
-#a{
-    color: white;
-    font-size: 20px;
-    margin: 5px;
-    border-radius: 2px;
-}
-#a:hover{
-    background-color: rgb(100, 100, 99);
-    animation-delay: 30ms;
-}
+
 #tabla{
     width: 90%;
 }
